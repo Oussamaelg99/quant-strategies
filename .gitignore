@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Config file (contains api key)
+config.json  
+lean.json
+*.dll  
+*.exe  
+*.log  
+data/  # Avoid uploading large datasets  
+backtests/  # Avoid storing old backtests  
+results/  # Ignore local backtest results  

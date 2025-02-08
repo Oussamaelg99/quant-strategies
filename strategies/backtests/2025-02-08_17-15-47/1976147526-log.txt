@@ -1,0 +1,4 @@
+2020-01-01 00:00:00 Launching analysis for 1976147526 with LEAN Engine v2.5.0.0
+2020-01-01 00:00:00 Accurate daily end-times now enabled by default. See more at https://qnt.co/3YHaWHL. To disable it and use legacy daily bars set self.settings.daily_precise_end_time = False.
+2020-02-26 16:00:00 Warning: Portfolio rebalance result ignored as it resulted in a single share trade recommendation which can generate high fees. To disable minimum order size checks please set Settings.MinimumOrderMarginPortfolioPercentage = 0.
+2022-12-30 16:00:00 Algorithm Id:(1976147526) completed in 0.95 seconds at 3k data points per second. Processing total of 2,963 data points.
